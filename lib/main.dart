@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/Screen/DiscoverScreen.dart';
-import 'package:flutter_app/Screen/IndexScreen.dart';
-import 'package:flutter_app/Screen/MsgScreen.dart';
-import 'package:flutter_app/Screen/MyScreen.dart';
+import 'package:flutter_induction/Screen/DiscoverScreen.dart';
+import 'package:flutter_induction/Screen/IndexScreen.dart';
+import 'package:flutter_induction/Screen/MsgScreen.dart';
+import 'package:flutter_induction/Screen/MyScreen.dart';
 
 // 暗号：初见Flutter
 
